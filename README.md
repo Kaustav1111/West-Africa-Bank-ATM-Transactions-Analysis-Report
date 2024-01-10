@@ -1,5 +1,5 @@
 # Project Description:
-This is a Power BI project where Exploratory Data analysis on West Africa Bank ATM transactions Dataset.
+This is a Power BI project where Exploratory Data Analysis is performed on West Africa Bank ATM transactions Dataset.
 
 # Actions taken:
 1) Power Query to clean and preprocess the dataset.
